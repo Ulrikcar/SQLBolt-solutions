@@ -1,5 +1,6 @@
 /* SQL Lesson 2: Queries with constraints (Part 1) */
-    
+/* Using the right constraints, find the information we need from the Movies table for each task below.*/    
+
     -- 1. Find the movie with a row id of 6
         SELECT
             *

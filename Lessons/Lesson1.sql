@@ -1,4 +1,5 @@
 /* SQL Lesson 1: SELECT queries */ 
+/* We will be using a database with data about some of Pixar's classic movies for most of our exercises. This first exercise will only involve the Movies table, and the default query below currently shows all the properties of each movie.*/
 
     -- 1. Find the title of each film
         SELECT

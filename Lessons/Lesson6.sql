@@ -1,4 +1,5 @@
 /* SQL Lesson 6: Multi-table queries with JOINs */
+/* The BoxOffice table stores information about the ratings and sales of each particular Pixar movie, and the Movie_id column in that table corresponds with the Id column in the Movies table 1-to-1. */
 
     -- 1. Find the domestic and international sales for each movie 
         SELECT
