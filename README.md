@@ -2,7 +2,7 @@
 
 Welcome to my Progress on my SQLBolt project!
 
-This repository will include my solutions to SQLBolt (https://sqlbolt.com/) "a series of interactive lessons and exercises designed to help you quickly learn SQL right in my browser".
+This repository will include my solutions to [SQLBolt] (https://sqlbolt.com/) _"a series of interactive lessons and exercises designed to help you quickly learn SQL right in my browser"_.
 
 ## Repository structure 
 
@@ -13,5 +13,6 @@ This repository will include my solutions to SQLBolt (https://sqlbolt.com/) "a s
   - `/Lesson4`: Filtering and sorting Query results
   - `/Lesson5`: Review: Simple SELECT Queries
   - `/Lesson6`: Multi-table queries with JOINs
+  - `/Lesson7`: OUTER JOINs
 
-## Ulrik Cardenas
+## By: Ulrik Cardenas
