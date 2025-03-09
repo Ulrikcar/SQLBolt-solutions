@@ -2,7 +2,7 @@
 
 Welcome to my Progress on my SQLBolt project!
 
-This repository will include my solutions to [SQLBolt] (https://sqlbolt.com/) _"a series of interactive lessons and exercises designed to help you quickly learn SQL right in my browser"_.
+This repository will include my solutions to [SQLBolt](https://sqlbolt.com/) _"a series of interactive lessons and exercises designed to help you quickly learn SQL right in my browser"_.
 
 ## Repository structure 
 
